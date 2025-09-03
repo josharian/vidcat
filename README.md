@@ -7,6 +7,10 @@ who was in turn inspired by [Darren Burns](https://github.com/darrenburns/rich-p
 
 Warning: vibe-coded
 
+## Demo
+
+[![vidcat demo](https://img.youtube.com/vi/oP0QymuR4tI/0.jpg)](https://youtu.be/oP0QymuR4tI)
+
 
 ## How it works
 
